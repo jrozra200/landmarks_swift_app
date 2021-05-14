@@ -2,6 +2,15 @@
 <Workspace
    version = "1.0">
    <FileRef
+      location = "group:/Users/jacobrozran/Documents/Landmarks/Landmarks/MapView.swift">
+   </FileRef>
+   <FileRef
+      location = "group:/Users/jacobrozran/Documents/Landmarks/Landmarks/CircleImage.swift">
+   </FileRef>
+   <FileRef
+      location = "group:/Users/jacobrozran/Documents/Landmarks/Landmarks/turtlerock@2x.jpg">
+   </FileRef>
+   <FileRef
       location = "self:">
    </FileRef>
 </Workspace>
